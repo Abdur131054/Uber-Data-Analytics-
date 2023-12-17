@@ -4,7 +4,7 @@ In this data engineering endeavor, I successfully executed a comprehensive proje
 Tools and technology I used:
 
 - __Google Cloud Storage:__ Commencing with the establishment of a solid foundation, I efficiently stored the Uber dataset in Google Cloud Storage., a reliable and scalable cloud storage solution.
-- __Data Modeling__:
+- __Data Modeling in lucidchart__: Utilized Lucidchart for data modeling, employing visual representations to design and plan the structure of the data.
 - __Python:__ Subsequently, I devised and implemented sophisticated transformation logic using Python, a versatile programming language widely employed in data engineering tasks.
 - __Mage:__ To streamline the entire data processing pipeline, I harnessed the power of , an open-source data pipeline tool.
 - __Google BigQuery:__ The journey continued with the loading of processed data into Google BigQuery, a robust and highly scalable data warehouse within the GCP ecosystem.
@@ -43,7 +43,8 @@ Looker Studio, a powerful data exploration and visualization tool, provided an i
 The interactive dashboard, created using Google Looker Studio, serves as a user-friendly interface for exploring and visualizing the insights derived from the Uber data. The dashboard presents key metrics and trends in a visually appealing format, enabling users to quickly grasp the essential information. Users can interact with the dashboard to filter, drill down, and segment the data, gaining deeper insights into specific aspects of Uber usage in New York City.
 
 * __Dashboard Link:__ https://lookerstudio.google.com/u/1/reporting/bc8e8f67-e0d4-453f-a1ad-dc3edd4610b8/page/o5RkD
-
+  
+![uber_Dashboard](https://github.com/Abdur131054/Uber-Data-Analytics-/assets/28232003/34763a39-d1f9-40c2-9b9d-ba74a4741d14)
  
 
 
