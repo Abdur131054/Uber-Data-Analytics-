@@ -42,9 +42,9 @@ To initiate the analysis phase, I meticulously crafted a consolidated table by h
 Looker Studio, a powerful data exploration and visualization tool, provided an intuitive interface to present the analyzed data, allowing for a comprehensive understanding of patterns, trends, and key metrics.
 The interactive dashboard, created using Google Looker Studio, serves as a user-friendly interface for exploring and visualizing the insights derived from the Uber data. The dashboard presents key metrics and trends in a visually appealing format, enabling users to quickly grasp the essential information. Users can interact with the dashboard to filter, drill down, and segment the data, gaining deeper insights into specific aspects of Uber usage in New York City.
 
+* __Dashboard Link:__ https://lookerstudio.google.com/u/1/reporting/bc8e8f67-e0d4-453f-a1ad-dc3edd4610b8/page/o5RkD
 
  
-
 
 
 This project not only exemplifies the adept handling of data engineering processes but also showcases the integration of cutting-edge technologies and platforms to derive meaningful insights from a complex dataset, ultimately facilitating informed decision-making.
