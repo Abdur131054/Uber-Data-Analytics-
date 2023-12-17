@@ -9,10 +9,18 @@ Tools and technology I used:
 - Google BigQuery: The journey continued with the loading of processed data into Google BigQuery, a robust and highly scalable data warehouse within the GCP ecosystem.
 - SQL queries: Within the expansive capabilities of BigQuery, I further conducted in-depth analysis using , unraveling valuable insights from the Uber dataset.
 - Looker Studio: As the culmination of this data engineering endeavor, I utilized  to create a dynamic and visually engaging dashboard.
-  
+ ## Architecture Diagram
 
+ ![architecture](https://github.com/Abdur131054/Uber-Data-Analytics-/assets/28232003/28740b21-e405-4d42-aa87-f521a516e86c)
  
+## Dataset:
+The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).
 
+ * Link to Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+ * Link to Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+## Data Model: 
 
 
  
