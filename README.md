@@ -23,7 +23,7 @@ The data used in the attached datasets were collected and provided to the NYC Ta
  * Link to Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model: 
-Data Model  consists of 1 fact table and 7 fact tables
+Data Model  consists of 1 fact table and 7 dimension tables
 
 ![uber_data_model](https://github.com/Abdur131054/Uber-Data-Analytics-/assets/28232003/5402e957-4599-4eaa-8608-bcd474a03095)
 ## Compute Engine:
