@@ -6,7 +6,7 @@ Tools and technology I used:
 - __Google Cloud Storage:__ Commencing with the establishment of a solid foundation, I efficiently stored the Uber dataset in Google Cloud Storage., a reliable and scalable cloud storage solution.
 - __Data Modeling in lucidchart__: Utilized Lucidchart for data modeling, employing visual representations to design and plan the structure of the data.
 - __Python:__ Subsequently, I devised and implemented sophisticated transformation logic using Python, a versatile programming language widely employed in data engineering tasks.
-- __Compute Engine:__Cloud computing service that provide VM for running application and services.
+- __Compute Engine:__ Cloud computing service that provide VM for running application and services.
 - __Mage:__ To streamline the entire data processing pipeline, I harnessed the power of , an open-source data pipeline tool.
 - __Google BigQuery:__ The journey continued with the loading of processed data into Google BigQuery, a robust and highly scalable data warehouse within the GCP ecosystem.
 - __SQL queries:__ Within the expansive capabilities of BigQuery, I further conducted in-depth analysis using , unraveling valuable insights from the Uber dataset.
